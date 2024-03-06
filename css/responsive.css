@@ -1,0 +1,84 @@
+/* about */
+@media (max-width:991px){
+    #about .about-image img {
+        margin-left: auto;
+        max-height: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width:991px){
+    #about .about-content .row .card:hover{
+        transform: scale(1);
+        cursor: pointer;
+    }
+}
+/* about end */
+
+/* skill */
+@media (max-width:991px){
+    #skill .content{
+        margin-top: 20px;
+    }
+}
+
+
+/* skill End */
+
+
+/* education */
+@media (max-width:991px){
+    #education .cirtificate{
+        margin:auto;
+    
+    }
+}
+
+/* goals  */
+@media (max-width:991px){
+    #goals .card:hover{
+        transform: scale(1);
+        background-color:var(--forth-color);
+    }
+}
+
+
+/* goals  End */
+
+/* education Ends */
+
+
+
+/* Experience */
+@media (max-width:991px){
+    #experience .deta{
+        margin:auto;
+    
+    }
+}
+/* Experience Ends */
+
+
+/* portfolio */
+@media (max-width:991px){
+    #portfolio .row img{
+        max-width: 100%;
+        margin-top: 20px;
+    }
+}
+/* portfolio End */
+
+/* contact */
+@media (max-width:991px){
+    #contact .input-feild{
+        margin-top: 35px;
+    }
+}
+
+@media (max-width:991px){
+    #contact .input-feild form{
+
+        margin: 0;
+    }
+}
+/* contact Ends */
